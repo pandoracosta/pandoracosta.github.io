@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <ul>
-  <li><a href="#home" class="active">Home</a></li>
+  
+  <a href="#home" class="active">Home</a>
   <li><a href="#news">News</a></li>
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
-</ul>
+
 </head>
 <body>
 
