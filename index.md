@@ -4,7 +4,7 @@
 <head>
   <p>
   <h1> Pandora Pimentel || <a href="https://pandoracosta.github.io/" class="active"> Início </a>||
-  <a href="#news"> Escrita </a>||
+  <a href="https://pandoracosta.github.io/escrita"> Escrita </a>||
   <a href="#contact"> Arte </a> </h1>
   </p>
 </head>
