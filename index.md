@@ -24,7 +24,7 @@
         <li> 3D Fundamental </li>
         <li> Composição e Textura </li>      	
     </p>
-    <p> Adquiridos na <a href="https://saga.art.br/" class="active"> SAGA</a> - Escola de Arte, em Salvador - BA. </p>
+    <p> Adquiridos na <a href="https://saga.art.br/" class="active"> SAGA - Escola de Arte</a>, em Salvador - BA. </p>
 </body>
 </html>
 
