@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-  
+  <title> Pandora Pimentel </title>
   <a href="#home" class="active">Home</a>
-  <li><a href="#news">News</a></li>
+  <a href="#news">News</a>
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
 
