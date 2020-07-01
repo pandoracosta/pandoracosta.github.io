@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> Pandora Pimentel </title>
+  <h1> Pandora Pimentel </h1>
   <a href="#home" class="active">Home</a>
   <a href="#news">News</a>
   <li><a href="#contact">Contact</a></li>
