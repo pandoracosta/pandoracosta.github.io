@@ -11,7 +11,7 @@
 
 <body>
 	
-	<p> Estudante de Ciência da Computação na UFBA (Universidade Federal da Bahia), entusiasta do desenvolvimento de jogos e escrita criativa. Aqui, disponibilizo meu portfolio virtual, com links para processos de desenvolvimento em escrita e concept art para jogos. </p>
+	<p> Estudante de Ciência da Computação na UFBA (Universidade Federal da Bahia), entusiasta do desenvolvimento de jogos e escrita criativa. Aqui, disponibilizo meu portfolio virtual, com links para referências autorais em escrita e em concept art para jogos. </p>
     <p> Com certificados em: 
     	<li> Introdução ao Game </li>
         <li> Desenho Básico </li>
@@ -22,10 +22,9 @@
         <li> Concept de Armas e Veículos </li>
         <li> Escultura de Personagem </li>
         <li> 3D Fundamental </li>
-        <li> Composição e Textura </li>
-        
-    	Adquiridos na <a href="https://saga.art.br/" class="active"> SAGA</a> - Escola de Arte, em Salvador - BA.	
+        <li> Composição e Textura </li>      	
     </p>
+    <p> Adquiridos na <a href="https://saga.art.br/" class="active"> SAGA</a> - Escola de Arte, em Salvador - BA. </p>
 </body>
 </html>
 
