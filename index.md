@@ -25,6 +25,10 @@
         <li> Composição e Textura </li>      	
     </p>
     <p> Adquiridos na <a href="https://saga.art.br/" class="active"> SAGA - Escola de Arte</a>, em Salvador - BA. </p>
+    
+    <h1> Contato </h1>
+    email: pandorahari@hotmail.com
+    instagram de arte: @pandorahari
 </body>
 </html>
 
