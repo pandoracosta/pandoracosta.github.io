@@ -18,6 +18,7 @@
 			<h2> <a href="https://caixadepandorap.wordpress.com"> Projetos </a></h2>
 			<li> Tradução português-inglês do roteiro do demo do jogo "Estou Perdido", desenvolvido através da engine Ren'Py para criação de Visual Novel </li>
 			<li> Prólogo do meu livro ainda em processo de desenvolvimento </li>
+            		<li> Game Design Document do projeto de jogo Rhea </li>
     		</p>
 </body>
 </html>
