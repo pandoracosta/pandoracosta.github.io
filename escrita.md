@@ -12,7 +12,7 @@
 	<h1> Escrita </h1>
   		<p> 
 			<h2> <a href="https://medium.com/@pandorahari"> Medium </a></h2>
-			Onde escrevo sobre o conhecimento que vou adquirindo sobre <a href="medium.com/pandorahari">escrita de roteiro </a> para cinema.
+			Onde escrevo sobre o conhecimento que vou adquirindo sobre <a href="https://medium.com/@pandorahari">escrita de roteiro </a> para cinema.
 			<h2> <a href="https://caixadepandorap.wordpress.com"> Blog </a></h2>
 			Escrita criativa, poesias e devaneios.
 			<h2> <a href="https://caixadepandorap.wordpress.com"> Projetos </a></h2>
