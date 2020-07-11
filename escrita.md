@@ -15,7 +15,7 @@
 			Onde escrevo sobre o conhecimento que vou adquirindo sobre escrita de roteiro para cinema.
 			<h2> <a href="https://caixadepandorap.wordpress.com"> Blog </a></h2>
 			Escrita criativa, poesias e devaneios.
-			<h2> <a href="https://caixadepandorap.wordpress.com"> Projetos </a></h2>
+			<h2> Projetos</h2>
 	<li> Tradução português-inglês do roteiro do demo do jogo <a href="https://github.com/ReyalSFDK/EstouPerdido/blob/master/en.rpy"> "Estou Perdido" </a>, desenvolvido através da engine Ren'Py para criação de Visual Novel </li>
 	<li> Prólogo do meu <a href="https://www.4shared.com/office/t0I0czJ4iq/prologo.html">livro</a> ainda em processo de desenvolvimento </li>
             		<li> Game Design Document do projeto de jogo <a href="https://www.4shared.com/office/Og11LVtHiq/GDD_-_Rhea.html">Rhea</a> </li>
